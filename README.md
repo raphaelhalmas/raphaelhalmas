@@ -17,6 +17,8 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 <img align="left" alt="Node.js" width="36px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+<img align="left" alt="IntelliJ IDEA" width="36px" src="https://devicon.dev/devicon.git/icons/intellij/intellij-original-wordmark.svg" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Docker" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
