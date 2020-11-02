@@ -25,5 +25,5 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 
 ## GitHub Stats:
 
-![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelhalmas&show_icons=true&theme=tokyonight)
+![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelhalmas&show_icons=true&theme=react)
 
