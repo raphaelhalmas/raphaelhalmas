@@ -1,3 +1,5 @@
+<a href="https://twitter.com/raphaelhalmas" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/raphaelhalmas" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/raphaelhalmas" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
 ## Hey there! 👋
 
 I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experienced SAP ABAP PI Consultant and Full Stack Developer.
@@ -8,17 +10,6 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 
 ... as a SAP ABAP PI Consultant and Full Stack Developer at Seidor Véritas.
 
-<br />
-
-## Connect with me:
-
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/raphaelhalmas)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/raphaelhalmas)
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/profile.php?id=)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/raphaelhalmas)
-
-<br />
-<br />
 <br />
 
 ## Languages and Tools:
