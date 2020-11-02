@@ -2,7 +2,7 @@
 
 ## Hey there! 👋
 
-I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP PI Consultant and Java Developer.
+I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP PI consultant and Java developer.
 
 ## Currently I am working ...
 
