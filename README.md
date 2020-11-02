@@ -8,8 +8,6 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 
 ... as a SAP ABAP PI Consultant and Full Stack Developer at Seidor Brasil.
 
-<br />
-
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
