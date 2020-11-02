@@ -2,13 +2,9 @@
 
 I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experienced SAP ABAP PI Consultant and Full Stack Developer.
 
-<br />
-
 ### Currently I am working ...
 
 ... as a SAP ABAP PI Consultant and Full Stack Developer at Seidor Véritas.
-
-<br />
 
 ### Connect with me:
 
@@ -17,6 +13,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/profile.php?id=)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/raphaelhalmas)
 
+<br />
 <br />
 <br />
 
@@ -31,6 +28,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 <img align="left" alt="typescript" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
 <img align="left" alt="jquery" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" />
 
+<br />
 <br />
 <br />
 
