@@ -1,16 +1,16 @@
-### Hey there! 👋
+## Hey there! 👋
 
 I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experienced SAP ABAP PI Consultant and Full Stack Developer.
 
 <br />
 
-### Currently I am working ...
+## Currently I am working ...
 
 ... as a SAP ABAP PI Consultant and Full Stack Developer at Seidor Véritas.
 
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/raphaelhalmas)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/raphaelhalmas)
@@ -21,7 +21,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 <br />
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -36,7 +36,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 <br />
 <br />
 
-### GitHub Stats:
+## GitHub Stats:
 
 ![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelhalmas&show_icons=true&theme=tokyonight)
 
