@@ -12,6 +12,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 
 <img align="left" alt="Java" width="36px" src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Node.js" width="36px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Node.js" width="36px" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="React" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
 <img align="left" alt="HTML5" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />
