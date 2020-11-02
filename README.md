@@ -36,5 +36,5 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelhalmas&show_icons=true&theme=react?hide=Ruby,Objective-C)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelhalmas&show_icons=true&theme=react&hide=Ruby,Objective-C)
 
