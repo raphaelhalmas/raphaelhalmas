@@ -16,6 +16,9 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 <img align="left" alt="React" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Node.js" width="36px" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Docker" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />
 
