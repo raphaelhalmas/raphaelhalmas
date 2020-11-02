@@ -32,7 +32,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 
 ## GitHub Stats:
 
-<p align="center">  
+<p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=raphaelhalmas&hide=stars&show_icons=true&theme=react&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelhalmas&count_private=true&theme=react">
 </p>
