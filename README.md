@@ -38,3 +38,5 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelhalmas&show_icons=true&theme=react&hide=Ruby,Objective-C)
 
+_NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats._
+
