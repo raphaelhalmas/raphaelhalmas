@@ -6,7 +6,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 
 ## Currently I am working ...
 
-... as a SAP ABAP PI Consultant and Full Stack Developer at Seidor Brasil.
+... as a SAP ABAP PI consultant and Java developer at Seidor Brasil.
 
 ## Languages and Tools:
 
