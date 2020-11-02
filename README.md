@@ -30,6 +30,8 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 <br />
 <br />
 
+---
+
 ## GitHub Stats:
 
 <p align="left">  
