@@ -6,8 +6,6 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 
 ## Currently I am working ...
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 ... as a SAP ABAP PI Consultant and Full Stack Developer at Seidor Brasil.
 
 ## Languages and Tools:
