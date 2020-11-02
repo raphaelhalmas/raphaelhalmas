@@ -30,12 +30,11 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), a SAP ABAP
 <br />
 <br />
 
----
-
 ## GitHub Stats:
 
-<p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelhalmas&hide=stars&show_icons=true&theme=react&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelhalmas&count_private=true&theme=react">
-</p>
+![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelhalmas&show_icons=true&theme=react)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelhalmas&show_icons=true&theme=react?hide=Ruby,Objective-C)
 
