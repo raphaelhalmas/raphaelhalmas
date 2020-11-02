@@ -8,7 +8,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io/raphaelhalmas/), an experie
 
 ## Currently I am working ...
 
-... as a SAP ABAP PI Consultant and Full Stack Developer at Seidor Véritas.
+... as a SAP ABAP PI Consultant and Full Stack Developer at Seidor Brasil.
 
 <br />
 
