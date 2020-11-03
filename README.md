@@ -2,7 +2,7 @@
 
 ## Hey there! 👋
 
-I'm [Raphael Halmas](https://drive.google.com/file/d/14OSmLmLvTzA9LyBfVFWc_JcjiUnI97AM/view?usp=sharing), a SAP ABAP PI consultant, Java, MERN stack and hobby game developer.
+I'm [Raphael Halmas](https://docs.google.com/document/d/1cYB-0uV-eaAy6b_EWCXpIcqjrKDNSwavSmw91v9BbqE/edit?usp=sharing), a SAP ABAP PI consultant, Java, MERN stack and hobby game developer.
 
 ## Currently I am working ...
 
