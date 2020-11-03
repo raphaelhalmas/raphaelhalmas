@@ -4,11 +4,11 @@
 
 I'm [Raphael Halmas](https://drive.google.com/file/d/1ugZmjvGhs3RXMon2Z1AMqQT7GJUVZMXe/view?usp=sharing), a SAP ABAP PI consultant, Java, MERN Stack and hobby game developer.
 
-## Currently I am working ...
+## Currently I am working...
 
 ... as a SAP ABAP PI consultant and Java developer at Seidor Brasil.
 
-## Languages and tools:
+## Skills:
 
 <img align="left" alt="IntelliJ IDEA" width="36px" src="https://devicon.dev/devicon.git/icons/intellij/intellij-original-wordmark.svg" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
