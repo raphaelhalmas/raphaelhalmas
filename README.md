@@ -4,9 +4,9 @@
 
 I'm [Raphael Halmas](https://drive.google.com/file/d/1ugZmjvGhs3RXMon2Z1AMqQT7GJUVZMXe/view?usp=sharing), a SAP ABAP PI consultant, Java, MERN stack and hobby game developer.
 
-## Currently I am working...
+## Currently I am working ...
 
-...as a SAP ABAP PI consultant and Java developer at Seidor Brasil.
+... as a SAP ABAP PI consultant and Java developer at Seidor Brasil.
 
 ## Skills:
 
