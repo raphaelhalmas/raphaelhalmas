@@ -13,7 +13,6 @@ I'm [Raphael Halmas](https://drive.google.com/file/d/16Q3h2ZWm00ta7CIA8NUOA-lk2j
 <img align="left" alt="IntelliJ IDEA" width="36px" src="https://devicon.dev/devicon.git/icons/intellij/intellij-original-wordmark.svg" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Java" width="36px" src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Express" width="36px" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="React" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Node.js" width="36px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
