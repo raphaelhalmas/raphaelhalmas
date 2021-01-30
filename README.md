@@ -10,17 +10,17 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a SAP ABAP PI consultant,
 
 ## Skills:
 
-<img align="left" alt="IntelliJ IDEA" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" />
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="React" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Node.js" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="TypeScript" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Docker" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="HTML5" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="Godot" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />
+<img align="left" alt="IntelliJ IDEA" width="36px" src="icons/intellij-original-wordmark.svg" />
+<img align="left" alt="Visual Studio Code" width="36px" src="icons/visual-studio-code.png" />
+<img align="left" alt="Java" width="36px" src="icons/java-original-wordmark.svg" />
+<img align="left" alt="React" width="36px" src="icons/react-original-wordmark.svg" />
+<img align="left" alt="Node.js" width="36px" src="icons/nodejs-original-wordmark.svg" />
+<img align="left" alt="TypeScript" width="36px" src="icons/typescript-original.svg" />
+<img align="left" alt="Docker" width="36px" src="icons/docker-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="36px" src="icons/postgresql-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="36px" src="icons/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="36px" src="icons/css3-original-wordmark.svg" />
+<img align="left" alt="Godot" width="36px" src="icons/godot.png" />
 
 <br />
 <br />
