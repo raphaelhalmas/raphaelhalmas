@@ -12,10 +12,9 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a SAP ABAP PI consultant,
 
 <img align="left" alt="SAP" width="36px" src="icons/sap.svg" />
 <img align="left" alt="Java" width="36px" src="icons/java-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="36px" src="icons/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="36px" src="icons/typescript-original.svg" />
-<img align="left" alt="React" width="36px" src="icons/react-original-wordmark.svg" />
 <img align="left" alt="Node.js" width="36px" src="icons/nodejs-original-wordmark.svg" />
+<img align="left" alt="React" width="36px" src="icons/react-original-wordmark.svg" />
+<img align="left" alt="TypeScript" width="36px" src="icons/typescript-original.svg" />
 <img align="left" alt="GraphQL" width="36px" src="icons/graphql-plain-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="36px" src="icons/postgresql-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="36px" src="icons/html5-original-wordmark.svg" />
