@@ -1,4 +1,4 @@
-<a href="https://twitter.com/raphaelhalmas" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Twitter" width="22px" src="icons/twitter.svg" /></a><a href="https://br.linkedin.com/in/raphael-halmas-silva-0619614b" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Linkdein" width="22px" src="icons/linkedin.svg" /></a><a href="https://www.instagram.com/raphaelhalmas" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Insta" width="22px" src="icons/instagram.svg" /></a>
+<a href="https://twitter.com/raphael_halmas" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Twitter" width="22px" src="icons/twitter.svg" /></a><a href="https://br.linkedin.com/in/raphael-halmas-silva-0619614b" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Linkdein" width="22px" src="icons/linkedin.svg" /></a><a href="https://www.instagram.com/raphaelhalmas" target="_blank" rel="nofollow"><img align="right" alt="Raphael's Insta" width="22px" src="icons/instagram.svg" /></a>
 
 ## Hey there! 👋
 
