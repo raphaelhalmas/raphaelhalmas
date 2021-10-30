@@ -25,7 +25,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a curious, versatile, and
 <br />
 <br />
 
-## Articles:
+## Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
