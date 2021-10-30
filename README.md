@@ -28,6 +28,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a curious, versatile, and
 ## Latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating your first CDS view with the Eclipse-based ABAP Development Tools (ADT)](https://raphaelhalmas.hashnode.dev/creating-your-first-cds-view-with-the-eclipse-based-abap-development-tools-adt)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats:
