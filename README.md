@@ -25,6 +25,11 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a curious, versatile, and
 <br />
 <br />
 
+## Articles:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## GitHub Stats:
 
 ![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelhalmas&show_icons=true&theme=react)
