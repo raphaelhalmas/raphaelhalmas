@@ -29,7 +29,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a curious, versatile, and
 
 <!-- BLOG-POST-LIST:START -->
 - [Develop a Fiori app using SAP Cloud Application Programming Model &lpar;CAP&rpar; and Node.js](https://raphaelhalmas.hashnode.dev/develop-a-fiori-app-using-sap-cloud-application-programming-model-cap-and-nodejs)
-- [Develop a Fiori app using the ABAP RESTful Application Programming Model &lpar;Managed Scenario&rpar;](https://raphaelhalmas.hashnode.dev/develop-a-fiori-app-using-the-abap-restful-application-programming-model-managed-scenario)
+- [Develop a Fiori app using the ABAP RESTful Application Programming Model &lpar;RAP&rpar;](https://raphaelhalmas.hashnode.dev/develop-a-fiori-app-using-the-abap-restful-application-programming-model-rap)
 - [Deploy your SAPUI5 app on Netlify](https://raphaelhalmas.hashnode.dev/deploy-your-sapui5-app-on-netlify)
 - [Create your first CDS view with the Eclipse-based ABAP Development Tools &lpar;ADT&rpar;](https://raphaelhalmas.hashnode.dev/create-your-first-cds-view-with-the-eclipse-based-abap-development-tools-adt)
 <!-- BLOG-POST-LIST:END -->
