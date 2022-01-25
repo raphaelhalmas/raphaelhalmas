@@ -6,7 +6,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a curious, versatile, and
 
 ## Currently I am working ...
 
-... as a SAP ABAP consultant and Java developer at Seidor Brasil.
+... as a SAP ABAP consultant and Java developer at Infosys.
 
 ## Skills:
 
