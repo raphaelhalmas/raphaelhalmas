@@ -6,7 +6,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a curious, versatile, and
 
 ## Currently I am working ...
 
-... as a SAP ABAP Fiori consultant at SouthEnd Corp.
+... as a SAP BTP ABAP Fiori consultant at SouthEnd Corp.
 
 ## Skills:
 
