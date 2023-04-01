@@ -2,7 +2,7 @@
 
 ## Hey there! 👋
 
-I'm [Raphael Halmas](https://raphaelhalmas.github.io), a curious, versatile, and autonomous person who loves to try new techs they're not familiar with.
+I'm [Raphael Halmas](https://raphaelhalmas.github.io), a developer who loves to work with challenging and creative projects.
 
 ## Currently I am working ...
 
@@ -13,12 +13,7 @@ I'm [Raphael Halmas](https://raphaelhalmas.github.io), a curious, versatile, and
 <img align="left" alt="SAP" width="36px" src="icons/sap.svg" />
 <img align="left" alt="Java" width="36px" src="icons/java-original-wordmark.svg" />
 <img align="left" alt="Node.js" width="36px" src="icons/nodejs-original-wordmark.svg" />
-<img align="left" alt="React" width="36px" src="icons/react-original-wordmark.svg" />
-<img align="left" alt="TypeScript" width="36px" src="icons/typescript-original.svg" />
-<img align="left" alt="GraphQL" width="36px" src="icons/graphql-plain-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="36px" src="icons/postgresql-original-wordmark.svg" />
-<img align="left" alt="HTML5" width="36px" src="icons/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="36px" src="icons/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="36px" src="icons/javascript-plain.svg" />
 <img align="left" alt="Godot" width="36px" src="icons/godot.png" />
 
 <br />
